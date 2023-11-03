@@ -2,7 +2,7 @@ class BankApplication {//hii hello
     public static void main(String args[]) {
       int bank_application=9076;
       String bank_name=" bank_of_india";
-      long account_number=9799476338287l;
+      long account_number=9799476338287l;  //this is bank application
       String person_name="jasmitha";
       int totalamount=50000;
       int withdraw=4000;
