@@ -1,4 +1,4 @@
-class BankApplication {
+class BankApplication {//hii hello
     public static void main(String args[]) {
       int bank_application=9076;
       String bank_name=" bank_of_india";
